@@ -10,7 +10,7 @@ import com.shoppersStack.Pom.MyProfile_Page;
 import com.shoppersStack.Pom.Update_Address_Page;
 import com.shoppersStack.genericutility.BaseTest;
 
-public class update_address_Test extends BaseTest {
+public class update_address extends BaseTest {
 	@Test
 	public void  updateAdd() throws IOException, InterruptedException{
 	 
